@@ -1,0 +1,21 @@
+{
+  "name": "AuraFinanzas - Gestión de Patrimonio",
+  "short_name": "AuraFinanzas",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#07090e",
+  "theme_color": "#00f59b",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "./aura-logo.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "./aura-logo.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
