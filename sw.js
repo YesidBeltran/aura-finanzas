@@ -1,4 +1,4 @@
-const CACHE_NAME = 'aurafinanzas-v1';
+const CACHE_NAME = 'aurafinanzas-v2';
 const ASSETS_TO_CACHE = [
   './',
   './index.html',
